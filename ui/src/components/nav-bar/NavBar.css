@@ -1,0 +1,36 @@
+.nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid lightgrey;
+    margin: 20px;
+    padding: 10px
+}
+
+.nav-items {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-item {
+    width: 10vw;
+}
+
+
+.nav-item a {
+    font-weight: bold;
+    text-decoration: none;
+    color: black
+}
+
+.nav-item a:hover {
+    text-decoration: underline;
+    color: black
+}
+
+.nav-status {
+    display: flex;
+    flex-direction: row;
+    font-size: 16px
+}
+
