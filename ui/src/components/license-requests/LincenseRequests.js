@@ -2,7 +2,6 @@ import React from 'react';
 import { withRouter } from 'react-router';
 import web3 from '../../util/web3';
 import { licensingAbi, licensingAddrs } from '../../config/image-licensing';
-import { registryAbi, registryAddrs } from '../../config/capsules-registry';
 import { formatHash } from '../../util/format';
 import { LicenseStatus } from "../../enums/LicenseStatus";
 

@@ -23,28 +23,28 @@ A Capsule is simply a content encapsulated with the content creator's digital si
 * Capsules reinforces a trust relationship between content creator and consumers
 
 ### Image Licensing
-* Additionally to the basic functionality of registering Capsules, this projects also provides an use case for it: image licensing. 
+* Additionally to the basic functionality of registering Capsules, this projects also provides an use case for it: Image Licensing
 * The images registered as Capsules will be available for other users to license, paying a  fee to the image owner 
-* **Warning**: The image licensing functionality is only a demo and maybe changed radically  in the near future. 
+* **Warning**: The image licensing functionality is only a demo and maybe changed radically  in the near future
 
 
 ## Project Structure
 
 ## Backend 
 
-* The backend of project is composed of two Smart Contracts (`CapsulesRegisty` and `ImageLicensing`)  written in Solidity inside a Truffle project.
+* The backend of project is composed of two Smart Contracts (`CapsulesRegisty` and `ImageLicensing`)  written in Solidity inside a Truffle project
 * The basic Truffle commands can be run from the root of the project:
 `truffle compile`, `truffle test`, `truffle migrate`
 
 
 ## UI
 
-* The UI of the project was created using the **React** framework (`create-react-app`).
-* In order to start it you should go tothe `ui` root directory, install the dependencies and run the app:
+* The UI of the project was created using the **React** framework (`create-react-app`)
+* In order to start it you should go to the `ui` root directory, install the dependencies and run the app:
   * `cd ui`
   * `npm install`
   * `npm start`
-* The application will be served on port 3000: http://localhost:3000
+* The application will be served on localhost (port 3000): http://localhost:3000
 
 
 

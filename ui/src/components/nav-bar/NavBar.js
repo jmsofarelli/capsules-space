@@ -3,10 +3,6 @@ import React from 'react';
 import { withRouter } from 'react-router';
 import { Link } from "react-router-dom";
 import web3 from '../../util/web3';
-import { abi, address } from '../../config/image-licensing';
-import { abi as capsulesAbi, address as capsulesAddress } from '../../config/capsules-registry';
-import { formatHash, getIpfsHash } from '../../util/format';
-import { IPFS_BASE_URL } from '../../config/ipfs';
 
 class NavBar extends React.Component {
 

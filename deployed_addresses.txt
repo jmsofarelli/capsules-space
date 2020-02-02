@@ -1,0 +1,10 @@
+Rinkeby network
+===============
+CapsulesRegistry: 0x7eF3CB8720658a87dadd90B1b44EaE695e76Af6F
+Image Licensing: 0xC85b84Dc7443c9ACDA5ce90b2AC4C66422D02a21
+
+
+Kovan network
+=============
+CapsulesRegistry: 0xAab7913A5330b38DAFbb4a8362Cb656AE9Ed0C2D
+Image Licensing: 0xFB60c29F32210824632A3926f001A9354a3d0a15

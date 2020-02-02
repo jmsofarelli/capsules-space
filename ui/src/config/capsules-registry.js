@@ -1,7 +1,7 @@
 export const registryAddrs = {
-  private: "0xcB4A6efe69903b4CdaceB093e2484CC75fdCD32A",
-  rinkeby: "0xf2e86535D407EcA0E2AE42e8EE6edA47dEC6C93F",
-  kovan: "0x64DE21DDc0aD9984574Dfaf596f26257Bd07354d"
+  private: "0x0D9ccC7af8459218AdedbDcB7E33612656Ae7202",
+  rinkeby: "0x7eF3CB8720658a87dadd90B1b44EaE695e76Af6F",
+  kovan: "0xAab7913A5330b38DAFbb4a8362Cb656AE9Ed0C2D"
 };
 
 export const registryAbi = [

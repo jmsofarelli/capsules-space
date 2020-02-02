@@ -1,5 +1,7 @@
 export const licensingAddrs = {
-  private: "0xdbBEe630B1A00c04b15d167aD6a7B93258502f74"
+  private: "0x8177613ADaB30127F167c844e9d579FD804ccdA7",
+  rinkeby: "0xC85b84Dc7443c9ACDA5ce90b2AC4C66422D02a21",
+  kovan: "0xFB60c29F32210824632A3926f001A9354a3d0a15"
 };
 
 export const licensingAbi = [
