@@ -25,8 +25,8 @@ const fs = require('fs');
 //const infuraKovanUrl = fs.readFileSync(".infura_kovan").toString().trim();
 //const infuraLiveUrl = fs.readFileSync(".infura_live").toString().trim();
 //const HDWalletProvider = require('truffle-hdwallet-provider');
-const Web3 = require('web3');
-const web3 = new Web3();
+//const Web3 = require('web3');
+//const web3 = new Web3();
 
 module.exports = {
   /**
@@ -47,13 +47,13 @@ module.exports = {
     // options below to some value.
     //
 
-    /*
+    
     development: {
       host: "127.0.0.1",     // Localhost (default: none)
-      port: 7545,            // Standard Ethereum port (default: none)
+      port: 8545,            // Standard Ethereum port (default: none)
       network_id: "*",       // Any network (default: none)
     },
-    */
+    
     
     /*
     
